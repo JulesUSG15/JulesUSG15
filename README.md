@@ -38,6 +38,7 @@ Projet réalisé dans le cadre de l'UE LIFABDW à l'Université Claude Bernard L
 Ce projet est un site web, créé en utilisant l'architecture MVC, qui permet la gestion d'une école de danse. Il permet de gérer les élèves de l'école, les professeurs, les cours, les salles, etc. Il permet également la gestion d'une fédération de danse, avec la gestion des danseurs, des compétitions, des résultats, etc. 
 Ce projet a été réalisé en utilisant PHP, HTML, CSS, JS et MySQL. 
 Pour ce projet, nous avons été classés 9 sur 59 groupes, avec une note de 16,25/20.
+
 <div align="center"> <img src="https://i.imgur.com/a5lC1in.png" width="400px" /> </div>
 
 ### Optimisation de tournées de véhicules ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -47,6 +48,7 @@ Le programme a été développé à l'aide de la bibliothèque python Turtle, et
 Le programme a une interface graphique qui montre en temps réel le meilleur chemin. Toutes les données ont été enregistrées dans des fichiers .xlsx pour nous permettre d'analyser les résultats. 
 Pour ce projet, nous avons été classés 1 sur 40 groupes, avec une note de 19/20.
 
+<div align="center"> <img src="info.gif" width="300px" /> </div>
 
 
 ## Languages et outils
