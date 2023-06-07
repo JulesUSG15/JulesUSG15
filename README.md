@@ -36,6 +36,7 @@ Projet réalisé dans le cadre de l'UE LIFABDW à l'Université Claude Bernard L
 Ce projet est un site web, créé en utilisant l'architecture MVC, qui permet la gestion d'une école de danse. Il permet de gérer les élèves de l'école, les professeurs, les cours, les salles, etc. Il permet également la gestion d'une fédération de danse, avec la gestion des danseurs, des compétitions, des résultats, etc. 
 Ce projet a été réalisé en utilisant PHP, HTML, CSS, JS et MySQL. 
 Pour ce projet, nous avons été classés 9 sur 59 groupes, avec une note de 16,25/20.
+<div align="center"> <img src="https://imgur.com/a/N8FVKNT.png" width="200px" /> </div>
 
 ### Optimisation de tournées de véhicules ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 Projet réalisé dans le cadre de mes études à Polytech Lyon, avec Maxime Antoine, Mathieu Ponton et Pablo Verchère. 
@@ -43,9 +44,6 @@ Le but du projet était de développer un programme python pour trouver le plus 
 Le programme a été développé à l'aide de la bibliothèque python Turtle, et les algorithmes utilisés sont l'algorithme du plus proche voisin pour la solution initiale, 2-opt, relocate et swap pour la recherche locale. Tous les algorithmes ont été développés par nos soins. 
 Le programme a une interface graphique qui montre en temps réel le meilleur chemin. Toutes les données ont été enregistrées dans des fichiers .xlsx pour nous permettre d'analyser les résultats. 
 Pour ce projet, nous avons été classés 1 sur 40 groupes, avec une note de 19/20.
-<div align="center"> <img src="https://imgur.com/a/N8FVKNT.png" width="400px" /> </div>
-
-
 
 ## Languages et outils
 
