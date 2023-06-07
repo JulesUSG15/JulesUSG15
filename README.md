@@ -31,18 +31,20 @@ Miso Mania permet au joueur de créer un utilisateur dans le jeu, et cet utilisa
 Le jeu est distribué sur WSL, Mac et Linux. Le jeu a été créé en utilisant la bibliothèque SDL2 et C++ par Romain Rochebloine, Mathieu Ponton et moi-même.
 Pour ce projet, nous avons été classés 9 sur 211 avec une note de 18,42/20
 
-### BDance ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### BDanse ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 Projet réalisé dans le cadre de l'UE LIFABDW à l'Université Claude Bernard Lyon 1, dans le cadre de ma deuxième année de préparation aux écoles d'ingénieurs Polytech (Peip). Ce projet a été réalisé avec Mathieu Ponton. 
 Ce projet est un site web, créé en utilisant l'architecture MVC, qui permet la gestion d'une école de danse. Il permet de gérer les élèves de l'école, les professeurs, les cours, les salles, etc. Il permet également la gestion d'une fédération de danse, avec la gestion des danseurs, des compétitions, des résultats, etc. 
 Ce projet a été réalisé en utilisant PHP, HTML, CSS, JS et MySQL. 
 Pour ce projet, nous avons été classés 9 sur 59 groupes, avec une note de 16,25/20.
 
-### Optimisation de tournées de véhicules ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+### Optimisation de tournées de véhicules ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 Projet réalisé dans le cadre de mes études à Polytech Lyon, avec Maxime Antoine, Mathieu Ponton et Pablo Verchère. 
 Le but du projet était de développer un programme python pour trouver le plus court chemin entre 100 points sur une carte. Ce projet est une version du problème du voyageur de commerce (“Travelling Salesman Problem” en anglais). Le programme permet à l'utilisateur de choisir un ou plusieurs camions pour livrer un nombre de points prédéfinis. 
 Le programme a été développé à l'aide de la bibliothèque python Turtle, et les algorithmes utilisés sont l'algorithme du plus proche voisin pour la solution initiale, 2-opt, relocate et swap pour la recherche locale. Tous les algorithmes ont été développés par nos soins. 
 Le programme a une interface graphique qui montre en temps réel le meilleur chemin. Toutes les données ont été enregistrées dans des fichiers .xlsx pour nous permettre d'analyser les résultats. 
 Pour ce projet, nous avons été classés 1 sur 40 groupes, avec une note de 19/20.
+
+
 
 ## Languages et outils
 
