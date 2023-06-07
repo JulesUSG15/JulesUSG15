@@ -21,13 +21,13 @@
 
 </div>
 
-<a href="https://github.com/Claquettes/Stats#gh-dark-mode-only">
-<img src="https://github.com/Claquettes/Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/Claquettes/Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<a href="https://github.com/JulesUSG15/Stats#gh-dark-mode-only">
+<img src="https://github.com/JulesUSG15/Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/JulesUSG15/Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
-<a href="https://github.com/Claquettes/Stats#gh-light-mode-only">
-<img src="https://github.com/Claquettes/Stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
-<img src="https://github.com/Claquettes/Stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+<a href="https://github.com/JulesUSG15/Stats#gh-light-mode-only">
+<img src="https://github.com/JulesUSG15/Stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+<img src="https://github.com/JulesUSG15/Stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
 </a>
 
 ## Mes projets 
