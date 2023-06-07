@@ -1,6 +1,11 @@
 # Bienvenue sur JulesUSG15
 ## Me retrouver
-[![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.linkedin.com/in/jules-ginhac-2b8a65236/)
+
+[![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/JulesUSG15)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/jules-ginhac-2b8a65236/)
+
+- 📫 Contactez-moi sur **jules.ginhac@etu.univ-lyon1.fr**
+
 <!--
 **JulesUSG15/JulesUSG15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
