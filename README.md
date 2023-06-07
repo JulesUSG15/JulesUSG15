@@ -43,7 +43,7 @@ Le but du projet était de développer un programme python pour trouver le plus 
 Le programme a été développé à l'aide de la bibliothèque python Turtle, et les algorithmes utilisés sont l'algorithme du plus proche voisin pour la solution initiale, 2-opt, relocate et swap pour la recherche locale. Tous les algorithmes ont été développés par nos soins. 
 Le programme a une interface graphique qui montre en temps réel le meilleur chemin. Toutes les données ont été enregistrées dans des fichiers .xlsx pour nous permettre d'analyser les résultats. 
 Pour ce projet, nous avons été classés 1 sur 40 groupes, avec une note de 19/20.
-<div align="center"> <img src="https://i.imgur.com/o7wxb1T.png" width="400px" /> </div>
+<div align="center"> <img src="https://imgur.com/a/N8FVKNT.png" width="400px" /> </div>
 
 
 
