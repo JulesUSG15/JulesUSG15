@@ -30,6 +30,7 @@ Miso Mania est un jeu de plateforme en 2D. Ce jeu se situe à la croisée des ch
 Miso Mania permet au joueur de créer un utilisateur dans le jeu, et cet utilisateur peut acheter des skins pour le personnage, ainsi que des particules. Les pièces sont gagnées en terminant les niveaux, et plus le joueur se rapproche du sommet du classement, plus il gagne de pièces. 
 Le jeu est distribué sur WSL, Mac et Linux. Le jeu a été créé en utilisant la bibliothèque SDL2 et C++ par Romain Rochebloine, Mathieu Ponton et moi-même.
 Pour ce projet, nous avons été classés 9 sur 211 avec une note de 18,42/20
+
 <div align="center"> <img src="miso1.gif" width="400px" /> </div>
 
 ### BDanse ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
