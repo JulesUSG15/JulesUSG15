@@ -48,7 +48,6 @@ Le programme a été développé à l'aide de la bibliothèque python Turtle, et
 Le programme a une interface graphique qui montre en temps réel le meilleur chemin. Toutes les données ont été enregistrées dans des fichiers .xlsx pour nous permettre d'analyser les résultats. 
 Pour ce projet, nous avons été classés 1 sur 40 groupes, avec une note de 19/20.
 
-<div align="center"> <img src="info.gif" width="300px" /> </div>
 
 
 ## Languages et outils
