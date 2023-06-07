@@ -21,13 +21,23 @@
 
 </div>
 
-## Mes projects 
+<a href="https://github.com/Claquettes/Stats#gh-dark-mode-only">
+<img src="https://github.com/Claquettes/Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/Claquettes/Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/Claquettes/Stats#gh-light-mode-only">
+<img src="https://github.com/Claquettes/Stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+<img src="https://github.com/Claquettes/Stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+</a>
+
+## Mes projets 
 
 ### Miso Mania 
 Projet réalisé dans le cadre de l'UE LIFAP4 à l'Université Claude Bernard Lyon 1, dans le cadre de ma deuxième année de préparation aux écoles d'ingénieurs Polytech (Peip). 
 Miso Mania est un jeu de plateforme en 2D. Ce jeu se situe à la croisée des chemins, entre le jeu de plateforme et le die and retry. Le joueur contrôle un personnage qui doit atteindre la fin du niveau. Le jeu dispose d'un éditeur de niveau, d'un système de partage de niveau et d'un tableau de classement. 
 Miso Mania permet au joueur de créer un utilisateur dans le jeu, et cet utilisateur peut acheter des skins pour le personnage, ainsi que des particules. Les pièces sont gagnées en terminant les niveaux, et plus le joueur se rapproche du sommet du classement, plus il gagne de pièces. 
 Le jeu est distribué sur WSL, Mac et Linux. Le jeu a été créé en utilisant la bibliothèque SDL2 et C++ par Romain Rochebloine, Mathieu Ponton et moi-même.
+Pour ce projet, nous avons été classés 9 sur 211 avec une note de 18,42/20
 
 ### BDance 
 Projet réalisé dans le cadre de l'UE LIFABDW à l'Université Claude Bernard Lyon 1, dans le cadre de ma deuxième année de préparation aux écoles d'ingénieurs Polytech (Peip). Ce projet a été réalisé avec Mathieu Ponton. 
