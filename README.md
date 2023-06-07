@@ -24,7 +24,7 @@
 
 ## Mes projets 
 
-### Miso Mania 
+### Miso Mania ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 Projet réalisé dans le cadre de l'UE LIFAP4 à l'Université Claude Bernard Lyon 1, dans le cadre de ma deuxième année de préparation aux écoles d'ingénieurs Polytech (Peip). 
 Miso Mania est un jeu de plateforme en 2D. Ce jeu se situe à la croisée des chemins, entre le jeu de plateforme et le die and retry. Le joueur contrôle un personnage qui doit atteindre la fin du niveau. Le jeu dispose d'un éditeur de niveau, d'un système de partage de niveau et d'un tableau de classement. 
 Miso Mania permet au joueur de créer un utilisateur dans le jeu, et cet utilisateur peut acheter des skins pour le personnage, ainsi que des particules. Les pièces sont gagnées en terminant les niveaux, et plus le joueur se rapproche du sommet du classement, plus il gagne de pièces. 
