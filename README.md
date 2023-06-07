@@ -33,7 +33,7 @@ Pour ce projet, nous avons été classés 9 sur 211 avec une note de 18,42/20
 
 <div align="center"> <img src="miso1.gif" width="400px" /> </div>
 
-### BDanse ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### BDanse ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 Projet réalisé dans le cadre de l'UE LIFABDW à l'Université Claude Bernard Lyon 1, dans le cadre de ma deuxième année de préparation aux écoles d'ingénieurs Polytech (Peip). Ce projet a été réalisé avec Mathieu Ponton. 
 Ce projet est un site web, créé en utilisant l'architecture MVC, qui permet la gestion d'une école de danse. Il permet de gérer les élèves de l'école, les professeurs, les cours, les salles, etc. Il permet également la gestion d'une fédération de danse, avec la gestion des danseurs, des compétitions, des résultats, etc. 
 Ce projet a été réalisé en utilisant PHP, HTML, CSS, JS et MySQL. 
