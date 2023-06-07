@@ -37,5 +37,18 @@
 
 [![JulesUSG15](https://github-profile-trophy.vercel.app/?username=JulesUSG15&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div align="center">
+
+<a href="https://github.com/JulesUSG15/github-stats#gh-dark-mode-only">
+<img src="https://github.com/JulesUSG15/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/JulesUSG15/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/JulesUSG15/github-stats#gh-light-mode-only">
+<img src="https://github.com/JulesUSG15/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+<img src="https://github.com/JulesUSG15/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+</a>
+
+</div>
+
 
 ## Mes projects 
