@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# Bienvenue sur JulesUSG15
+## Me retrouver
+[![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.linkedin.com/in/jules-ginhac-2b8a65236/)
 <!--
 **JulesUSG15/JulesUSG15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
