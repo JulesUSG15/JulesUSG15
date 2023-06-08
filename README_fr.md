@@ -1,12 +1,12 @@
-# Welcome to my profile 
-## Find me
+# Bienvenue sur mon Profil
+## Me retrouver
 
 [![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/JulesUSG15)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/jules-ginhac-2b8a65236/)
 
-- 📫 Contact me at **jules.ginhac@etu.univ-lyon1.fr**
+- 📫 Contactez-moi sur **jules.ginhac@etu.univ-lyon1.fr**
 
-## A few statistics 
+## Quelques statatistiques
 
 <div align="center">
 
@@ -23,41 +23,41 @@
 
 
 
-## My projects 
+## Mes projets 
 
 ### Miso Mania ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-Project carried out as part of the LIFAP4 course at Claude Bernard Lyon 1 University, as part of my second year of preparation for Polytech engineering schools (Peip). 
-Miso Mania is a 2D platform game. It's a cross between a platform game and a die and retry. The player controls a character who must reach the end of the level. The game features a level editor, a level-sharing system and a leaderboard. 
-Miso Mania allows the player to create a user in the game, and this user can buy skins for the character, as well as particles. Coins are earned by completing levels, and the closer the player gets to the top of the leaderboard, the more coins they earn. 
-The game is distributed on WSL, Mac and Linux. The game was created using the SDL2 library and C++ by Romain Rochebloine, Mathieu Ponton and myself.
-For this project, we were ranked 9 out of 211 students, with a mark of 18.42/20.
+Projet réalisé dans le cadre de l'UE LIFAP4 à l'Université Claude Bernard Lyon 1, dans le cadre de ma deuxième année de préparation aux écoles d'ingénieurs Polytech (Peip). 
+Miso Mania est un jeu de plateforme en 2D. Ce jeu se situe à la croisée des chemins, entre le jeu de plateforme et le die and retry. Le joueur contrôle un personnage qui doit atteindre la fin du niveau. Le jeu dispose d'un éditeur de niveau, d'un système de partage de niveau et d'un tableau de classement. 
+Miso Mania permet au joueur de créer un utilisateur dans le jeu, et cet utilisateur peut acheter des skins pour le personnage, ainsi que des particules. Les pièces sont gagnées en terminant les niveaux, et plus le joueur se rapproche du sommet du classement, plus il gagne de pièces. 
+Le jeu est distribué sur WSL, Mac et Linux. Le jeu a été créé en utilisant la bibliothèque SDL2 et C++ par Romain Rochebloine, Mathieu Ponton et moi-même.
+Pour ce projet, nous avons été classés 9 sur 211 avec une note de 18,42/20
 
 <div align="center"> <img src="miso1.gif" width="400px" /> </div>
 
 ### BDanse ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-Project carried out as part of the LIFABDW UE at the Université Claude Bernard Lyon 1, as part of my second year of preparation for the Polytech engineering schools (Peip). This project was carried out with Mathieu Ponton. 
-This project is a website, created using MVC architecture, that manages a dance school. It can be used to manage the school's students, teachers, classes, classrooms, etc. It can also be used to manage a dance federation, with management of dancers, competitions, results, etc. 
-This project was created using PHP, HTML, CSS and MySQL. 
-For this project, we were ranked 9 out of 59 groups, with a score of 16.25/20.
+Projet réalisé dans le cadre de l'UE LIFABDW à l'Université Claude Bernard Lyon 1, dans le cadre de ma deuxième année de préparation aux écoles d'ingénieurs Polytech (Peip). Ce projet a été réalisé avec Mathieu Ponton. 
+Ce projet est un site web, créé en utilisant l'architecture MVC, qui permet la gestion d'une école de danse. Il permet de gérer les élèves de l'école, les professeurs, les cours, les salles, etc. Il permet également la gestion d'une fédération de danse, avec la gestion des danseurs, des compétitions, des résultats, etc. 
+Ce projet a été réalisé en utilisant PHP, HTML, CSS, JS et MySQL. 
+Pour ce projet, nous avons été classés 9 sur 59 groupes, avec une note de 16,25/20.
 
 <div align="center"> <img src="https://i.imgur.com/a5lC1in.png" width="400px" /> </div>
 
-### Vehicle route optimisation ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-Project carried out as part of my studies at Polytech Lyon, with Maxime Antoine, Mathieu Ponton and Pablo Verchère. 
-The aim of the project was to develop a python program to find the shortest path between 100 points on a map. The project is a version of the Travelling Salesman Problem. The program allows the user to choose one or more trucks to deliver to a predefined number of points. 
-The programme was developed using the Turtle python library, and the algorithms used are the nearest neighbour algorithm for the initial solution, 2-opt, relocate and swap for the local search. All the algorithms were developed in-house. 
-The program has a graphical interface that shows the best path in real time. All the data was saved in .xlsx files to enable us to analyse the results. 
-For this project, we were ranked 1 out of 40 groups, with a score of 19/20.
+### Optimisation de tournées de véhicules ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+Projet réalisé dans le cadre de mes études à Polytech Lyon, avec Maxime Antoine, Mathieu Ponton et Pablo Verchère. 
+Le but du projet était de développer un programme python pour trouver le plus court chemin entre 100 points sur une carte. Ce projet est une version du problème du voyageur de commerce (“Travelling Salesman Problem” en anglais). Le programme permet à l'utilisateur de choisir un ou plusieurs camions pour livrer un nombre de points prédéfinis. 
+Le programme a été développé à l'aide de la bibliothèque python Turtle, et les algorithmes utilisés sont l'algorithme du plus proche voisin pour la solution initiale, 2-opt, relocate et swap pour la recherche locale. Tous les algorithmes ont été développés par nos soins. 
+Le programme a une interface graphique qui montre en temps réel le meilleur chemin. Toutes les données ont été enregistrées dans des fichiers .xlsx pour nous permettre d'analyser les résultats. 
+Pour ce projet, nous avons été classés 1 sur 40 groupes, avec une note de 19/20.
 
 <div align="center"> <img src="info.gif" width="300px" /> </div>
 
 ### 2048 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-This project is a 2048 game developed during my first year of pre-prep as part of the LiFASR2 UE at Lyon 1 University, using the fundamentals of web programming, such as PHP, HTML and CSS. 
-The main aim is to create an interactive and entertaining experience by putting my initial knowledge of web development into practice. Thanks to the combination of these languages, I'm able to offer users a classic, responsive interface, allowing them to take up the challenge of 2048 while exploring the possibilities of web programming.
+Ce projet est un jeu 2048 développé durant ma première année de prépa dans le cadre de l'UE LiFASR2 à l'Université Lyon 1. Ce jeu utilise les fondements de la programmation web, tels que le PHP, HTML et CSS. 
+L'objectif principal est de créer une expérience interactive et divertissante en mettant en pratique mes premières connaissances en développement web. Grâce à la combinaison de ces langages, j'offre aux utilisateurs une interface classique et réactive, leur permettant de relever le défi du 2048 tout en explorant les possibilités de la programmation web. 
 
 <div align="center"> <img src="Corner-Test.gif" width="300px" /> </div>
 
-## Languages & tools
+## Languages et outils
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -78,7 +78,7 @@ The main aim is to create an interactive and entertaining experience by putting 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-## Apprenticeship / upgrading
+## En apprentissage / perfectionnement
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
