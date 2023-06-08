@@ -29,7 +29,7 @@
 Project carried out as part of the LIFAP4 course at Claude Bernard Lyon 1 University, as part of my second year of preparation for Polytech engineering schools (Peip). 
 Miso Mania is a 2D platform game. It's a cross between a platform game and a die and retry. The player controls a character who must reach the end of the level. The game features a level editor, a level-sharing system and a leaderboard. 
 Miso Mania allows the player to create a user in the game, and this user can buy skins for the character, as well as particles. Coins are earned by completing levels, and the closer the player gets to the top of the leaderboard, the more coins they earn. 
-The game is distributed on WSL, Mac and Linux. The game was created using the SDL2 library and C++ by Romain Rochebloine, Mathieu Ponton and myself.
+The game is distributed on WSL, Mac and Linux. The game was created using the SDL2 library and C++ by Romain Rochebloine, [Mathieu Ponton](https://github.com/Claquettes) and myself.
 For this project, we were ranked 9 out of 211 students, with a mark of 18.42/20.
 
 <div align="center"> <img src="miso1.gif" width="400px" /> </div>
