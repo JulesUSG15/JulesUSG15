@@ -57,7 +57,7 @@ The main aim is to create an interactive and entertaining experience by putting 
 
 <div align="center"> <img src="Corner-Test.gif" width="300px" /> </div>
 
-### Snake
+### Snake ![Java]
 It's a snake game coded in Java during my free time in the first year of the engineering cycle at Polytech Lyon.
 There are only two rules in the game: don't hit a wall and don't bite your tail. If you hit a wall or your tail, the game stops immediately. Your best score is calculated according to the number of squares you've added to the snake
 
