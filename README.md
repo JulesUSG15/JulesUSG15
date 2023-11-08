@@ -3,9 +3,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/JulesUSG15)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/jules-ginhac-2b8a65236/)
-[Web](https://jules.ginhac.com)
 
 - 📫 Contact me at **jules.ginhac@etu.univ-lyon1.fr**
+- Site Web: [Jules](https://jules.ginhac.com)
 
 ## A few statistics 
 
